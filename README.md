@@ -20,7 +20,7 @@ https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/
 1、模型训练，根目录下运行：python train.py   
 2、模型前向，在inference.py脚本中设置模型路径后，在根目录下运行：python inference.py    
 
-  ![sample_1](https://github.com/XLEric/face_multi_task/samples/sample1.png)  
+  ![sample_1](https://github.com/XLEric/face_multi_task/tree/main/samples/sample1.png)  
 
 ## 联系方式 （Contact）   
 * E-mails: 305141918@qq.com   
